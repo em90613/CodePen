@@ -1,0 +1,22 @@
+h1{
+ font-family: calibri;
+  text-align: center;
+}
+h2{
+  
+  font-family: calibri;
+  text-align: center;
+}
+p{
+  color: Black;
+  font-size: 14pt;
+  text-align: center;
+}
+body{
+  background-image:url("https://s-media-cache-ak0.pinimg.com/originals/9c/4e/cc/9c4eccad4860abfb5b1b953e7868da83.jpg");
+  background-size: cover;
+  
+}
+form{
+  text-align: center;
+}
